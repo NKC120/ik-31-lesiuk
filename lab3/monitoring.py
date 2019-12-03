@@ -19,9 +19,9 @@ def main(url):
         r = requests.get(url)
         r.raise_for_status()
     except HTTPError as http_err:
-        logging.error("Сервер недоступний.", http_err)
+        logging.error("Сервер недоступний. Помилка: %s", http_err)
     except Exception as err:
-        logging.error("Сервер недоступний.", err)
+        logging.error("Сервер недоступний. Помилка: %s", err)
     else:
         data = json.loads(r.content)
         logging.info("Сервер доступний. Час на сервері: %s", data['date'])
