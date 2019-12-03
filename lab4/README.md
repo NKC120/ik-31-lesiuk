@@ -21,3 +21,27 @@
     - Замінюю посилання на власний `Git` репозиторій із сайтом та комічу даний `Dockerfile`.
     
 5. Створюю власний репозиторій на `Docker Hub`. Для цього заходжу у власний аккаунт на `Docker Hub`, після чого переходжу у вкладку `Repositories` і далі натискаю кнопку `Create new repository`. Даю назву репозиторію `lab4example`.
+
+6. Виконую білд (build) Docker імеджа та завантажую його до репозиторію. Оскільки мій репозиторій `nkc120/lab4example` то виконую команди:
+
+    ```
+    docker build -t nkc120/lab4example:django .
+    docker images
+    docker push nkc120/lab4example:django
+    ```
+   - [Посилання на Docker Hub](https://cloud.docker.com/repository/docker/nkc120/lab4example);
+   - Посилання на скачування: `nkc120/lab4example:django`.
+
+7. Для запуску сайту виконую команду:
+
+       ```
+       docker run -it --name=django --rm -p 8000:8000 nkc120/lab4example:django
+       ```
+       
+      - переходжу на адресу `http://127.0.0.1:8000 `та переконуюся, що Ваш веб-сайт працює:
+      
+      ![image](img/9.png)
+      
+      ![image](img/10.png)
+      
+8. 
