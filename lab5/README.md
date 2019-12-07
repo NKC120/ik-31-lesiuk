@@ -110,13 +110,25 @@
     - `Makefiles` є інструментом збирання, принцип якого простий: для побудови цілі необхідно вказати залежності та команди для її побудови. Можуть виникнути складнощі;
     - За допомогою `docker-compose` можна визначити багатоконтейнерну структуру в одному файлі, потім працювати з своєю програмою виконуючи лише одну команду, яка робить усе необхідне для її запуску, зупинки і деплою.
 
-18. Створюю `docker-compose.yaml` для лабораторної №4:
+18. Створюю `docker-compose.yml` для лабораторної №4:
     
-       - `docker-compose.yaml` створює два імеджі для Django сайту та моніторингу ([docker-compose.yaml файл знаходиться тут]();
+       - `docker-compose.yml` створює два імеджі для Django сайту та моніторингу ([docker-compose.yaml файл знаходиться тут](https://github.com/NKC120/ik-31-lesiuk/blob/master/lab4/docker-compose.yml);
     
        - Запускаю docker-compose.yaml командою:
             ```
             docker-compose -p lab4 up
             ```
+       - Перевіряю доступність головної сторінки та вкладки `health`:
+       
+            ![image](img/24.png)
+       
+            ![image](img/25.png)
+       
+       - Зупиняю проект, натиснувши Ctrl+C, і очищаю ресурси створені компоуз `docker-compose down`. Витягую файл `server.log`;
+
+       - Завантажую створені імеджі до Docker Hub репозиторію за допомого команди ([Посилання на Docker Hub](https://cloud.docker.com/repository/docker/nkc120/lab4example);):
+           ```
+           docker-compose push
+           ```
 
 
