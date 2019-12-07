@@ -49,50 +49,32 @@ INFO 2019-12-03 21:55:18,640 root : Ключ: date, Значення: 2019-12-03
 INFO 2019-12-03 21:55:18,641 root : Ключ: current_page, Значення: /health/
 INFO 2019-12-03 21:55:18,641 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'lesiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
 INFO 2019-12-03 21:55:18,641 root : Ключ: client_info, Значення: python-requests/2.22.0
-INFO 2019-12-03 21:40:51,705 root : Сервер доступний. Час на сервері: 2019-12-03T21:40:51.660
-INFO 2019-12-03 21:40:51,705 root : Запитувана сторінка: : /health/
-INFO 2019-12-03 21:40:51,705 root : Відповідь сервера місти наступні поля:
-INFO 2019-12-03 21:40:51,705 root : Ключ: date, Значення: 2019-12-03T21:40:51.660
-INFO 2019-12-03 21:40:51,705 root : Ключ: current_page, Значення: /health/
-INFO 2019-12-03 21:40:51,705 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '730a4bc8cd62', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-12-03 21:40:51,705 root : Ключ: client_info, Значення: python-requests/2.22.0
-INFO 2019-12-03 21:41:51,821 root : Сервер доступний. Час на сервері: 2019-12-03T21:41:51.775
-INFO 2019-12-03 21:41:51,821 root : Запитувана сторінка: : /health/
-INFO 2019-12-03 21:41:51,821 root : Відповідь сервера місти наступні поля:
-INFO 2019-12-03 21:41:51,821 root : Ключ: date, Значення: 2019-12-03T21:41:51.775
-INFO 2019-12-03 21:41:51,821 root : Ключ: current_page, Значення: /health/
-INFO 2019-12-03 21:41:51,822 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '730a4bc8cd62', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-12-03 21:41:51,822 root : Ключ: client_info, Значення: python-requests/2.22.0
-INFO 2019-12-03 21:42:51,948 root : Сервер доступний. Час на сервері: 2019-12-03T21:42:51.902
-INFO 2019-12-03 21:42:51,949 root : Запитувана сторінка: : /health/
-INFO 2019-12-03 21:42:51,949 root : Відповідь сервера місти наступні поля:
-INFO 2019-12-03 21:42:51,949 root : Ключ: date, Значення: 2019-12-03T21:42:51.902
-INFO 2019-12-03 21:42:51,949 root : Ключ: current_page, Значення: /health/
-INFO 2019-12-03 21:42:51,949 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '730a4bc8cd62', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-12-03 21:42:51,949 root : Ключ: client_info, Значення: python-requests/2.22.0
-INFO 2019-12-03 21:43:52,073 root : Сервер доступний. Час на сервері: 2019-12-03T21:43:52.027
-INFO 2019-12-03 21:43:52,073 root : Запитувана сторінка: : /health/
-INFO 2019-12-03 21:43:52,073 root : Відповідь сервера місти наступні поля:
-INFO 2019-12-03 21:43:52,073 root : Ключ: date, Значення: 2019-12-03T21:43:52.027
-INFO 2019-12-03 21:43:52,073 root : Ключ: current_page, Значення: /health/
-INFO 2019-12-03 21:43:52,073 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '730a4bc8cd62', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-12-03 21:43:52,073 root : Ключ: client_info, Значення: python-requests/2.22.0
-INFO 2019-12-03 21:44:52,193 root : Сервер доступний. Час на сервері: 2019-12-03T21:44:52.149
-INFO 2019-12-03 21:44:52,193 root : Запитувана сторінка: : /health/
-INFO 2019-12-03 21:44:52,193 root : Відповідь сервера місти наступні поля:
-INFO 2019-12-03 21:44:52,193 root : Ключ: date, Значення: 2019-12-03T21:44:52.149
-INFO 2019-12-03 21:44:52,194 root : Ключ: current_page, Значення: /health/
-INFO 2019-12-03 21:44:52,194 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '730a4bc8cd62', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-12-03 21:44:52,194 root : Ключ: client_info, Значення: python-requests/2.22.0
-INFO 2019-12-03 21:45:52,300 root : Сервер доступний. Час на сервері: 2019-12-03T21:45:52.259
-INFO 2019-12-03 21:45:52,300 root : Запитувана сторінка: : /health/
-INFO 2019-12-03 21:45:52,300 root : Відповідь сервера місти наступні поля:
-INFO 2019-12-03 21:45:52,301 root : Ключ: date, Значення: 2019-12-03T21:45:52.259
-INFO 2019-12-03 21:45:52,301 root : Ключ: current_page, Значення: /health/
-INFO 2019-12-03 21:45:52,301 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '730a4bc8cd62', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-12-03 21:45:52,301 root : Ключ: client_info, Значення: python-requests/2.22.0
-ERROR 2019-12-03 21:46:52,365 root : Сервер недоступний. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8acd9ddf90>: Failed to establish a new connection: [Errno 111] Connection refused'))
-ERROR 2019-12-03 21:47:52,430 root : Сервер недоступний. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ace2ca110>: Failed to establish a new connection: [Errno 111] Connection refused'))
-ERROR 2019-12-03 21:48:52,487 root : Сервер недоступний. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8acd945750>: Failed to establish a new connection: [Errno 111] Connection refused'))
-ERROR 2019-12-03 21:49:52,550 root : Сервер недоступний. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ace2cae50>: Failed to establish a new connection: [Errno 111] Connection refused'))
-ERROR 2019-12-03 21:50:52,613 root : Сервер недоступний. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8ace2d1bd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-12-07 11:44:13,645 root : Сервер недоступний. Помилка: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO 2019-12-07 11:45:13,756 root : Сервер доступний. Час на сервері: 2019-12-07T11:45:13.708
+INFO 2019-12-07 11:45:13,757 root : Запитувана сторінка: : /health/
+INFO 2019-12-07 11:45:13,757 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-07 11:45:13,757 root : Ключ: date, Значення: 2019-12-07T11:45:13.708
+INFO 2019-12-07 11:45:13,757 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-07 11:45:13,757 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '37bb789c0526', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-07 11:45:13,757 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-07 11:46:13,880 root : Сервер доступний. Час на сервері: 2019-12-07T11:46:13.824
+INFO 2019-12-07 11:46:13,881 root : Запитувана сторінка: : /health/
+INFO 2019-12-07 11:46:13,881 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-07 11:46:13,881 root : Ключ: date, Значення: 2019-12-07T11:46:13.824
+INFO 2019-12-07 11:46:13,883 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-07 11:46:13,883 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '37bb789c0526', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-07 11:46:13,883 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-07 11:47:13,980 root : Сервер доступний. Час на сервері: 2019-12-07T11:47:13.939
+INFO 2019-12-07 11:47:13,981 root : Запитувана сторінка: : /health/
+INFO 2019-12-07 11:47:13,981 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-07 11:47:13,981 root : Ключ: date, Значення: 2019-12-07T11:47:13.939
+INFO 2019-12-07 11:47:13,981 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-07 11:47:13,981 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '37bb789c0526', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-07 11:47:13,981 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-07 11:48:14,093 root : Сервер доступний. Час на сервері: 2019-12-07T11:48:14.049
+INFO 2019-12-07 11:48:14,093 root : Запитувана сторінка: : /health/
+INFO 2019-12-07 11:48:14,093 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-07 11:48:14,093 root : Ключ: date, Значення: 2019-12-07T11:48:14.049
+INFO 2019-12-07 11:48:14,093 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-07 11:48:14,093 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '37bb789c0526', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-07 11:48:14,093 root : Ключ: client_info, Значення: python-requests/2.22.0
